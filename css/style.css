@@ -901,6 +901,9 @@ body {
     right: 0;
     bottom: 0;
 }
+.section_5_top_btn > li:last-child::after {
+    display: none;
+}
 .job {
     width: 100%;
     display: flex;
