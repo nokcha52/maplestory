@@ -186,7 +186,7 @@
 .section_1_bottom_left > h2 {
     font-size: 24px;
     text-align: center;
-    padding: 30px 0;
+    padding: 20px 0;
 }
 .section_1_bottom_left > h2 > div {
     background-color: #5e5e5e;
@@ -201,7 +201,7 @@
     gap: 20px;
 }
 .notice_list > li {
-    padding: 10px 0;
+    padding: 6px 0;
     position: relative;
 }
 .notice_list > li::before {
@@ -226,7 +226,7 @@
 .notice_title {
     color: black;
     font-size: 16px;
-    line-height: 20px;
+    line-height: 16px;
     font-weight: 700;
 }
 .notice {
@@ -280,7 +280,8 @@
     border-bottom-left-radius: 600px;
     border-bottom-right-radius: 600px;
 }
-
 .section_1_bottom_right {
     width: 600px;
 }
+/* section_1_top끝 */
+/* section_1_bottom 시작 */
