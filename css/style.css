@@ -484,7 +484,7 @@ body {
 .section_2 {
     /* height: 200px; */
     /* box-sizing: content-box; */
-    padding: 30px 80px;
+    padding: 30px 100px;
     background-color: #e7e7e7;
 }
 .section_2 > p {
@@ -656,7 +656,10 @@ body {
 .section3_bottom_left > div {
     margin-bottom: 30px;
 }
-.section3_bottom_left p,
+.section3_bottom_left p{
+    font-size: 24px;
+    font-weight: 500;
+}
 .section3_bottom_left > div > div {
     font-size: 20px;
 }
@@ -664,6 +667,7 @@ body {
     width: 20px;
     height: 20px;
     background-color: #47474b;
+    align-items: center;
     text-align: center;
     border-radius: 50%;
     margin-left: 10px;
@@ -745,7 +749,7 @@ body {
 }
 .section_4_left > div > p {
     width: 200px;
-    font-size: 24px;
+    font-size: 22px;
     line-height: 36px;
     color: #3c3c3c;
 }
@@ -944,14 +948,14 @@ body {
 .job_exp_more {
     font-size: 24px;
     color: #fff;
-    font-weight: 700;
+    font-weight: 550;
     padding-bottom: 50px;
     margin-bottom: 50px;
 }
 .job_exp_tool {
     font-size: 18px;
     color: #fff;
-    font-weight: 700;
+    font-weight: 500;
     padding-bottom: 40px;
 }
 .job_exp > div > a > button {
